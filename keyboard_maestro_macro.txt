@@ -1,0 +1,7 @@
+Switch of Variable ‘cmd’
+If it Contains “#code”, Execute the Following Actions:
+Activate Slack
+If already at the front, quit the application.
+Notify on failure.
+Execute AppleScript
+(see custom_script)
