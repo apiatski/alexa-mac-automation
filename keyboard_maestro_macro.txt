@@ -4,4 +4,4 @@ Activate Slack
 If already at the front, quit the application.
 Notify on failure.
 Execute AppleScript
-(see custom_script)
+(see custom_code_setup.applescript)
