@@ -25,7 +25,7 @@ All work done for fun/learning, no credit :).
 1. Create new IFTTT applet. 
 2. Create an "if this" Alexa connection
 ![ifttt alexa img](ifttt_alexa_screenshot.png)
-<img src="ifttt_alexa_screenshot.png" height= "120" width="48">
+<img src="ifttt_alexa_screenshot.png" height= "635" width="426">
 ## Extensions:
 - further extend iterm setup in applescript
 - setup sublime text to open with all the requiesites we want
