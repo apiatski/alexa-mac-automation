@@ -24,10 +24,15 @@ All work done for fun/learning, no credit :).
 ## Instructions
 1. Create new IFTTT applet. 
 2. Create an "if this" Alexa trigger
-<img src="ifttt_alexa_screenshot.png" height= "284" width="423">
+
+<img src="ifttt_alexa_screenshot.png" height= "423" width="284">
+
 3. Create an "then that" Dropbox file action
-<img src="ifttt_mac_screenshot.png" height= "284" width="423">
+
+<img src="ifttt_mac_screenshot.png" height= "423" width="284">
+
 4. Create a keyboard maestro script that handles the new dropbox script and runs the respective applescript.
+
 <img src="keyboard_maestro_screenshot.png" height= "396" width="605.3">
 
 ## Usage
