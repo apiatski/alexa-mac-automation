@@ -15,14 +15,16 @@ All work done for fun/learning, no credit :).
 - Applescript
 - Winter Break
 
-## Requirements/Installation
-1. Setup Amazon Alexa product
-2. Register IFTTT Acount
-3. Setup and Locally Connect Dropbox Account
-Add the rest. Too busy working on this thing. 
+## Requirements
+- Amazon Alexa product
+- IFTTT Account
+- Setup and Locally Connect Dropbox Account
+- Download Keyboard Maestro
 
-## Usage
-Still need to write usage instructions
+## Instructions
+1. Create new IFTTT applet. 
+2. Create an "if this" Alexa connection
+![Alt text](/ifttt_alexa_screenshot.png?raw=true "Optional Title")
 
 
 ## Extensions:
